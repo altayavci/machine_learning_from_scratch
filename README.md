@@ -1,4 +1,4 @@
-Sklearn's machine learning methods from scratch. Includes : Regression, Classification and Clustering. 
+#Sklearn's machine learning methods from scratch. Includes : Regression, Classification and Clustering. 
 
 Regression : Simple Linear Regression, Multiple Linear Regression, Polynomial Regression, Decision Tree Regression, K-Nearest Neighbor Regression and Stochastic Gradient Descent Regression 
 
