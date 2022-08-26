@@ -1,4 +1,4 @@
-# Sklearn's machine learning models from scratch. Includes : Regression, Classification and Clustering. 
+# Sklearn's machine learning models from scratch. Includes :
 
 **Regression** : Simple Linear Regression, Multiple Linear Regression, Polynomial Regression, Decision Tree Regression, K-Nearest Neighbor Regression and Stochastic Gradient Descent Regression 
 
